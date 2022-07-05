@@ -1,10 +1,5 @@
 ## Josué de Souza Augusto
 
-
-- Sou aprendiz em programação
-- Graduado em análise e desenvolvimento de sistemas
-- Estudando desenvolvimento Front-end
-
 <div align="center">
   <a href="https://github.com/josuedesouzaaugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuedesouzaaugusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
