@@ -1,6 +1,5 @@
 ## Josué de Souza Augusto
 
-- Aprendiz em programação
 - Graduado em Análise e desenvolvimento de sistemas
 
 <div align="center">
