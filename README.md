@@ -1,6 +1,6 @@
 ## Josué de Souza Augusto
 
-- Graduado em Análise e desenvolvimento de sistemas
+- Graduado em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/josuedesouzaaugusto">
